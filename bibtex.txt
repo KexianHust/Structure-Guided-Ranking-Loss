@@ -1,0 +1,7 @@
+@InProceedings{xian2020sgrl,
+author = {Xian, Ke and Zhang, Jianming and Wang, Oliver and Mai, Long and Lin, Zhe and Cao, Zhiguo},
+title = {Structure-Guided Ranking Loss for Single Image Depth Prediction},
+booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+month = {June},
+year = {2020}
+}
