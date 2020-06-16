@@ -8,7 +8,7 @@ This repository contains a pytorch implementation of our CVPR2020 paper "Structu
 * [Jun. 2020] Initial release
 
 ## To do
-- [] Mix data training
+- [ ] Mix data training
 
 ## Prerequisites
 * Pytorch >= 0.4.1
