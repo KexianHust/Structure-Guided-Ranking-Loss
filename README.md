@@ -1,6 +1,5 @@
 # Structure-Guided Ranking Loss for Single Image Depth Prediction
-This repository contains a pytorch implementation of our CVPR2020 paper "Structure-Guided Ranking Loss for Single Image Depth Prediction". Data will come soon ...
-
+This repository contains a pytorch implementation of our CVPR2020 paper "Structure-Guided Ranking Loss for Single Image Depth Prediction". 
 [Project Page](https://KexianHust.github.io/Structure-Guided-Ranking-Loss/)
 ![Teaser Image](https://KexianHust.github.io/Structure-Guided-Ranking-Loss/teaser.png)
 
@@ -36,6 +35,9 @@ month = {June},
 year = {2020}
 }
 ```
+
+## Dataset
+Please contact Ke Xian (kexian@hust.edu.cn) for the dataset.
 
 ## Lisence
 Research only
