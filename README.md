@@ -37,7 +37,7 @@ year = {2020}
 ```
 
 ## Dataset
-Please contact Ke Xian (kexian@hust.edu.cn) for the dataset.
+Our [HRWSI](https://drive.google.com/file/d/1OVOx6x-B0Cs-m2z_-7ZxSgRFHz_VBvDd/view?usp=sharing) dataset is for research only!
 
 ## Lisence
 Research only
