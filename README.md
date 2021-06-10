@@ -37,7 +37,7 @@ year = {2020}
 ```
 
 ## Dataset
-Our [HRWSI](https://drive.google.com/file/d/1OVOx6x-B0Cs-m2z_-7ZxSgRFHz_VBvDd/view?usp=sharing) dataset is for research only!
+Our [HRWSI](https://drive.google.com/file/d/1OVOx6x-B0Cs-m2z_-7ZxSgRFHz_VBvDd/view?usp=sharing) dataset is for research only! Some researchers may interested in the stereo data, so we provide the right views [here](https://drive.google.com/file/d/1HzEB7yQI05Q21dP9rRjnyMoEmvCckAQp/view?usp=sharing). Please let me know if you have any questions.
 
 ## Lisence
 Research only
